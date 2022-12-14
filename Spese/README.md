@@ -33,7 +33,7 @@ Expenses Tracker is web application built with MERN stack technologies to track 
 To clone copy the following command in your terminal and start development.
 
 ```sh
-git clone https://github.com/akshatmittal61/expenses-tracker.git
+git clone 
 ```
 
 cd into the directory
